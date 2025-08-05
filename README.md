@@ -2,7 +2,7 @@
 
 A modern, secure, and user-friendly web application for merging multiple PDF files into a single document. Built with vanilla JavaScript and featuring a beautiful responsive design with dark/light mode support.
 
-![PDF Merger Tool](https://rakibalom.com/images/pdf-merger-tool.png)
+![PDF Merger Tool](https://rakibalom.github.io/pdf-merger-tool/img/pdf-merger-tool.jpg)
 
 ## 🚀 Features
 
